@@ -1,1 +1,1 @@
-# VisualPrivacyApp
+# securityApp
